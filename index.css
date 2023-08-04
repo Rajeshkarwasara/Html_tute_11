@@ -1,0 +1,62 @@
+
+.left {
+    width: 50%;
+  }
+  .heder {
+    display: flex;
+  }
+  body{font-family: 'Poppins', sans-serif;}
+  .heder h3 {
+    width: 55%;
+  }
+  .heder span {
+    padding: 24px;
+      padding-top: 24px;
+    padding-top: 30px;
+  }
+  .fullweb {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    background: white;
+    padding: 52px;
+    position: relative;
+    top: 50px;
+    height: 62vh;
+  }
+  .left p {
+    font-size: 40px;
+    padding-top: 30px;
+  }
+  .left {
+    font-size: 21px;
+  }
+  .arrt {
+    font-size: 40px;
+    color: brown;
+  }
+  #bg {
+    background: skyblue;
+  }
+  #bg2 {
+    background: #efd7d7;
+  }
+
+
+  .right img {
+  
+      background-size: cover;
+      height: 65vh;
+      margin-top: 30px;
+      margin-left: -20px;
+      width: 114%;
+      border-radius: 191px 0px 0px 0px;
+  
+  }
+  .right {
+    width: 50%;
+  }
+  section {
+    background: gainsboro;
+    height: 100vh;
+  }
